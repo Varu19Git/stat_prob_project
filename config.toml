@@ -5,3 +5,5 @@ backgroundColor = "#121212"  # Darker background for a sleek look
 secondaryBackgroundColor = "#1F1F1F"  # Slightly lighter background for contrast
 textColor = "#E0E0E0"  # Light gray for text to ensure readability
 font = "sans serif"
+[runner]
+theme.base = "dark"
