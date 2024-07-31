@@ -53,7 +53,7 @@ requirements.txt: A file listing all the required Python packages and their vers
 README.md: This file, providing an overview and instructions for the application.
 Dependencies
 The application depends on the following Python packages:
-
+```
 streamlit==0.88.0
 numpy==1.21.2
 pandas==1.3.3
@@ -63,7 +63,8 @@ scipy==1.7.1
 scikit-learn==0.24.2
 plotly==5.3.1
 requests==2.26.0
-streamlit-lottie==0.0.8 (optional, for animations)
+streamlit-lottie==0.0.8
+```
 Ensure that your requirements.txt file includes the exact versions of these packages.
 
 Contributing
