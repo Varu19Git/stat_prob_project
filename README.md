@@ -46,6 +46,7 @@ To run this application locally, follow these steps:
 To start the Streamlit application, run the following command:
 ```sh
 streamlit run app.py
+```
 File Structure
 app.py: The main Streamlit application file containing all the functionalities.
 requirements.txt: A file listing all the required Python packages and their versions.
